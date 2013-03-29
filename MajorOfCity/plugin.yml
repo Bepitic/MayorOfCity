@@ -1,0 +1,4 @@
+ name: MajorOfCity
+ main: com.github.pakirra.MajorOfCity.MajorOfCity
+ version: 0.1
+ description: Plugin para hacer alcaldes ciudadanos y ciudades
