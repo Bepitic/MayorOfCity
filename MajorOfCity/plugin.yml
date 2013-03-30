@@ -1,4 +1,13 @@
  name: MajorOfCity
  main: com.github.pakirra.MajorOfCity.MajorOfCity
- version: 0.1
+ version: 0.1.1
  description: Plugin para hacer alcaldes ciudadanos y ciudades
+  commands:
+       mac:
+       description: The Mayor Of City command
+       usage:
+       -/mac join [user] [city]
+       -/mac leave [user] [city]
+       -/mac leave [ciudad]
+       -/mac setRegion [city]
+      

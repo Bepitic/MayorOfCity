@@ -5,6 +5,10 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 public class RegionCiudad implements CommandExecutor {
+	
+	/**
+	 *  -/mac setRegion [city]
+	 */
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command command,

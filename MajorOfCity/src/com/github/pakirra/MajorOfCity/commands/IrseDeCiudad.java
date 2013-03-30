@@ -5,6 +5,9 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 public class IrseDeCiudad implements CommandExecutor  {
+	/*
+	 *  -mac leave [ciudad]
+	 */
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command command,
