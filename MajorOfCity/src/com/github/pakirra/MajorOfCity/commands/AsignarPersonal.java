@@ -16,7 +16,14 @@ public class AsignarPersonal implements CommandExecutor {
 		 * ciudadano
 		 * visitante
 		 * 
-		 *  -
+		 *  -/mac mayor [user] [city] 
+		 *  -/mac delMayor [user] [city] 
+		 *  -/mac upgrade [user] [city] 
+		 *  -/mac downgrade [user] [city] 
+		 *
+		 *  
+		 *
+		 *
 		 */
 		// TODO Auto-generated method stub
 		return false;

@@ -6,7 +6,8 @@ import org.bukkit.command.CommandSender;
 
 public class AsignarCusuarioCiudad  implements CommandExecutor {
 
-	/**
+	/** Hacer alias
+	 *
 	 *  -/mac join [user] [city]
 	 *  -/mac leave [user] [city]
 	 */
